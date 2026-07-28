@@ -1,0 +1,12 @@
+# Jupyter notebook autosaves
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data — third-party Kaggle dataset; not redistributed in the repo.
+# Download from Kaggle: "🚀Startup Success/Fail Dataset from Crunchbase" (yanmaksi)
+big_startup_secsees_dataset.csv
